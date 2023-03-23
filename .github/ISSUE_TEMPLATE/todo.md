@@ -1,14 +1,14 @@
 ---
 name: Todo
 about: Discuss things to do.
-title: "[Todo]"
+title: "todo: "
 labels: todo
 assignees: larrasu
 
 ---
 
-### Description
+### 📝 Description
 Describe here what you need to do.
 
-### Tasks
+### 📌 Tasks
 - [ ] Format in list form.
